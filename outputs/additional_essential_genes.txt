@@ -1,0 +1,49 @@
+ASNS1 asparagine synthase (glutamine-hydrolysing)
+NJMEEBPL_00505 or NJMEEBPL_00879 or NJMEEBPL_08219
+[False, False, False]
+JDDNEILB_00640
+[True]
+-----------------------------------
+DHQTi 3-dehydroquinate dehydratase
+NJMEEBPL_01239 or NJMEEBPL_10171
+[False, False]
+JDDNEILB_07629
+[True]
+-----------------------------------
+MI1PP myo-inositol 1-phosphatase
+NJMEEBPL_00429 or NJMEEBPL_02947
+[False, False]
+JDDNEILB_05915
+[True]
+-----------------------------------
+MPTG murein polymerizing transglycosylase
+( NJMEEBPL_05037 or NJMEEBPL_06475 ) and ( NJMEEBPL_05077 or NJMEEBPL_10222 )
+[False, False, False, False]
+( JDDNEILB_02384 or JDDNEILB_03825 ) and JDDNEILB_03785
+[False, False, True]
+-----------------------------------
+MTHFC methenyltetrahydrofolate cyclohydrolase
+NJMEEBPL_05733 or NJMEEBPL_09590
+[False, False]
+JDDNEILB_03126
+[True]
+-----------------------------------
+MTHFD methylenetetrahydrofolate dehydrogenase (NADP)
+NJMEEBPL_05733 or NJMEEBPL_09590
+[False, False]
+JDDNEILB_03126
+[True]
+-----------------------------------
+NADK NAD kinase
+NJMEEBPL_09492 or NJMEEBPL_07547
+[False, False]
+JDDNEILB_01312
+[True]
+-----------------------------------
+SDPDS succinyl-diaminopimelate desuccinylase
+NJMEEBPL_03656 or NJMEEBPL_09392
+[False, False]
+JDDNEILB_05204
+[True]
+-----------------------------------
+
